@@ -32,8 +32,11 @@ A small javascript app which gets data from a calendar service API and presents 
 
 ## Experience
 
-### Web Developer, [Carmen Data Ltd](http://carmendata.co.uk) 
-Bristol, UK (3 years 5 months, July 205 - present)
+### Web Application Developer, [TravelLocal](https://travellocal.com)
+Bristol, UK (January 2019 - present)
+
+### Web Developer, [Carmen Data](http://carmendata.co.uk) 
+Bristol, UK (3 years 6 months, July 2015 - December 2018)
 
  -  Designed and built a tool for making large datasets usable on client sites with functionality such as filtering, sorting, pagination and field customisation available out of the box, easily configured for use in different circumstances using back end tools - for example as traditional data table on a [Ford site](https://ford-quote.uk/bch/finder/) and as a grid on a [Fiat site](https://fiat-fleet.co.uk/compare/build/model/). The majority of our sites now use this component. Javascript / AJAX frontend with Coldfusion / MySQL backend.
 -   Writing modular and reusable code, generalising where practical to contribute to libraries used by the whole team.
