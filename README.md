@@ -75,6 +75,6 @@ York, UK (1 year 6 months, June 2010 - December 2011)
 
 ## Interests
 
- - Travel Photography - 33 countries in the last 3 years. 
+ - Travel Photography - 35ish countries in the last few years 
  - Running - half marathon pb 1:41
  - Bass guitar
