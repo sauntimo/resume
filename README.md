@@ -25,7 +25,7 @@ Enthusiastic and friendly mid-weight fullstack developer. Solid data experience,
 A jobs board built on Node.js, Express, MongoDB and Mongoose, with OAuth sign-in via Github with passport.js. See the code at [github.com/sauntimo/tech-jobs](https://github.com/sauntimo/tech-jobs) or the app running on heroku at [bristol-tech-jobs.herokuapp.com](https://bristol-tech-jobs.herokuapp.com).
 
 ### Star Wars API
-A small pure js app to explore data from the Star Wars API at [swapi.co](https://swapi.co). See the code at [github.com/sauntimo/swapi](https://github.com/sauntimo/swapi) or the app running on github pages at [sauntimo.github.io/swapi](https://sauntimo.github.io/swapi).
+A small pure js app to explore data from the Star Wars API at [swapi.dev](https://swapi.dev). See the code at [github.com/sauntimo/swapi](https://github.com/sauntimo/swapi) or the app running on github pages at [sauntimo.github.io/swapi](https://sauntimo.github.io/swapi).
 
 ### Church Calendar 
 A small javascript app which gets data from a calendar service API and presents two weeks worth of events, with controls for moving through time and modals for further event details. See the code at [github.com/sauntimo/churchsuite-diary](https://github.com/sauntimo/churchsuite-diary), a demo on github pages at [sauntimo.github.io/churchsuite-diary](https://sauntimo.github.io/churchsuite-diary) or the live version at [woodlandschurch.net/diary](https://www.woodlandschurch.net/diary)
