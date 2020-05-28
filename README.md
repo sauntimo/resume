@@ -1,18 +1,18 @@
 # Tim Saunders Resumé
-Updated November 2018
+Updated May 2020
 
 ## Summary
-Enthusiastic and friendly mid-weight fullstack developer. Solid data experience, quick learner, open to and keen on learning new languages and technologies.
+Enthusiastic and friendly mid-level fullstack developer with 5 years experience. Solid background in data, quick learner, open to and keen on learning new languages and technologies.
 
 ## Skills
 | Area | Skills |
 | :--- | :--- |
-| Web Technologies | Javascript, Typescript, React, Redux, Angular.js, Vue.js, jQuery, HTML, CSS, SASS, Bootstrap |
+| Web Technologies | Javascript, Typescript, React, Redux, Angular.js, Vue.js, jQuery, HTML/JSX, CSS, SASS, Bootstrap |
 | Testing | Mocha, Chai, Sinon, Jest |
 | Server | Node.js, Nginx, Apache, Coldfusion |
 | Scripting | Bash, basic Python |
 | Database | PostgreSQL, Knex/Bookshelf (ORM), Sqitch (migrations), MySQL, MongoDB, Mongoose, Firebase |
-| Tools | Git/Github/ZenHub, Docker, CircleCI, Webpack, Yarn/NPM, Gulp, VSCode, Windows Terminal, puTTY, Trello, Slack |
+| Tools | Git/Github/ZenHub, Docker, CircleCI, Webpack, Yarn/NPM, Datadog, VSCode, Hubspot, Trello, Slack |
 | OS | Windows, WSL, Linux (CentOS/Ubuntu), Android |
 | Processes | Agile Scrum, pair programming, team workshops, internal tech support |
 
@@ -37,6 +37,16 @@ A small javascript app which gets data from a calendar service API and presents 
 
 ### Web Application Developer, [TravelLocal](https://travellocal.com)
 Bristol, UK (January 2019 - present)
+
+ - Being a subject matter expert on databases, helping colleagues writing efficient queries, building a team wiki of over 100 useful queries to interrogate our data, being a go to source for ad hoc data requests outside of the team, delivering workshops on SQL and postgres.
+ 
+ - Took joint responsibility for the full lifecycle of delivering a major new feature: ready-made message snippets for our vendors to include in messages to customers. After discussing requirements with the team which requested the feature, we designed several paper prototypes, and then built an MVP under a feature flag. After positive feedback from a subset of vendors, we released the feature and analytics shows that upsage has been high and considerable time has been saved.
+ 
+ - Working with marketing team to integrate our platform into the Hubspot customer communication platform, triggering emails via their API, syncing customer details from our platform to thiers, back-populating historic data
+ 
+ - Contributing to setting goals (OKRs), sprint planning, retrospectives, reviews and backlog refinement as part of a diverse agile scrum team. Using Github Issues and PRs in Zenhub to maange stories in the sprint. Thoughtfully reviewing colleague's PRs.
+ 
+ - Ensuring that I continue to learn by pair programming on complex or unfamiliar tasks, spending time understanding feedback on my PRs, attending community events like [BristolJS](https://bristoljs.org/), working on side projects, completing video and online courses, team workshops and reading several programming subreddits.
 
 ### Web Developer, [Carmen Data](http://carmendata.co.uk) 
 Bristol, UK (3 years 6 months, July 2015 - December 2018)
