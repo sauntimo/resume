@@ -7,11 +7,14 @@ Enthusiastic and friendly mid-weight fullstack developer. Solid data experience,
 ## Skills
 | Area | Skills |
 | :--- | :--- |
-| Web Technologies | Javascript, Typescript, React, Redux, Angular.js, Vue.js, jQuery, HTML, CSS, SASS, Bootstrap  
+| Web Technologies | Javascript, Typescript, React, Redux, Angular.js, Vue.js, jQuery, HTML, CSS, SASS, Bootstrap |
+| Testing | Mocha, Chai, Sinon, Jest |
 | Server | Node.js, Nginx, Apache, Coldfusion |
+| Scripting | Bash, basic Python |
 | Database | PostgreSQL, Knex/Bookshelf (ORM), Sqitch (migrations), MySQL, MongoDB, Mongoose, Firebase |
-| Tools | Git/Github/ZenHub, Docker, Webpack, Gulp, VSCode, Bash, Windows Terminal, puTTY, Trello, Slack |
+| Tools | Git/Github/ZenHub, Docker, CircleCI, Webpack, Yarn/NPM, Gulp, VSCode, Windows Terminal, puTTY, Trello, Slack |
 | OS | Windows, WSL, Linux (CentOS/Ubuntu), Android |
+| Processes | Agile Scrum, pair programming, team workshops, internal tech support |
 
 ## Links
 - [Github](https://github.com/sauntimo)
