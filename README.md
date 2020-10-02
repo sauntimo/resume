@@ -2,7 +2,7 @@
 Updated May 2020
 
 ## Summary
-Enthusiastic and friendly mid-level fullstack developer with 5 years experience. Solid background in data, quick learner, open to and keen on learning new languages and technologies.
+Enthusiastic and friendly fullstack developer with 5 years experience. Solid background in data, quick learner, open to and keen on learning new languages and technologies.
 
 ## Skills
 | Area | Skills |
@@ -23,6 +23,9 @@ Enthusiastic and friendly mid-level fullstack developer with 5 years experience.
 - [Last.fm](https://last.fm/user/sauntimo)
 
 ## Projects
+
+### Crypto-cli
+A commandline app written in typescript to get crypto asset prices. Grab the code from [github.com/sauntimo/crypto-cli](https://github.com/sauntimo/crypto-cli).
 
 ### Tech Jobs Bristol 
 A jobs board built on Node.js, Express, MongoDB and Mongoose, with OAuth sign-in via Github with passport.js. See the code at [github.com/sauntimo/tech-jobs](https://github.com/sauntimo/tech-jobs) or the app running on heroku at [bristol-tech-jobs.herokuapp.com](https://bristol-tech-jobs.herokuapp.com).
