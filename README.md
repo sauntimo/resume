@@ -27,6 +27,9 @@ Enthusiastic and friendly fullstack developer with 5 years experience. Solid bac
 ### Crypto-cli
 A commandline app written in typescript to get crypto asset prices. Grab the code from [github.com/sauntimo/crypto-cli](https://github.com/sauntimo/crypto-cli).
 
+### Name-counter & API
+A node/typescript app which takes a list 5,400 names and counts how many times they occur in the text of [Oliver Twist](https://en.wikipedia.org/wiki/Oliver_Twist). The code for the command line app is at [github.com/sauntimo/name-counter](https://github.com/sauntimo/name-counter) and the code for the API is at [github.com/sauntimo/name-counter-api](https://github.com/sauntimo/name-counter-api). The API is avaiable deployed at [name-counter-api.herokuapp.com](https://name-counter-api.herokuapp.com/) which also has a basic frontend.
+
 ### Tech Jobs Bristol 
 A jobs board built on Node.js, Express, MongoDB and Mongoose, with OAuth sign-in via Github with passport.js. See the code at [github.com/sauntimo/tech-jobs](https://github.com/sauntimo/tech-jobs) or the app running on heroku at [bristol-tech-jobs.herokuapp.com](https://bristol-tech-jobs.herokuapp.com).
 
