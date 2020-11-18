@@ -50,7 +50,7 @@ Bristol, UK (January 2019 - present)
  
  - Working with marketing team to integrate our platform into the Hubspot customer communication platform, triggering emails via their API, syncing customer details from our platform to thiers, back-populating historic data
  
- - Contributing to setting goals (OKRs), sprint planning, retrospectives, reviews and backlog refinement as part of a diverse agile scrum team. Using Github Issues and PRs in Zenhub to maange stories in the sprint. Thoughtfully reviewing colleague's PRs.
+ - Contributing to setting goals (OKRs), sprint planning, retrospectives, reviews and backlog refinement as part of a diverse agile scrum team. Using Github Issues and PRs in Zenhub to manage stories in the sprint. Thoughtfully reviewing colleague's PRs.
  
  - Ensuring that I continue to learn by pair programming on complex or unfamiliar tasks, spending time understanding feedback on my PRs, attending community events like [BristolJS](https://bristoljs.org/), working on side projects, completing video and online courses, team workshops and reading several programming subreddits.
 
