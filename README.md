@@ -1,48 +1,57 @@
 # Tim Saunders Resumé
-Updated May 2020
+Updated January 2022
 
 ## Summary
-Enthusiastic and friendly fullstack developer with 5 years experience. Solid background in data, quick learner, open to and keen on learning new languages and technologies.
+Enthusiastic and friendly senior software engineer with backend-lean and 6 years experience. Enjoys making data useful, code review, type safety, neat APIs and keeping skills current, opinionated on code quality.
 
 ## Skills
 | Area | Skills |
 | :--- | :--- |
-| Web Technologies | Javascript, Typescript, React, Redux, Angular.js, Vue.js, jQuery, HTML/JSX, CSS, SASS, Bootstrap |
-| Testing | Mocha, Chai, Sinon, Jest |
-| Server | Node.js, Nginx, Apache, Coldfusion |
-| Scripting | Bash, basic Python |
-| Database | PostgreSQL, Knex/Bookshelf (ORM), Sqitch (migrations), MySQL, MongoDB, Mongoose, Firebase |
-| Tools | Git/Github/ZenHub, Docker, CircleCI, Webpack, Yarn/NPM, Datadog, VSCode, Hubspot, Trello, Slack |
-| OS | Windows, WSL, Linux (CentOS/Ubuntu), Android |
+| Web Technologies | Typescript, React, Redux, Vue, HTML/JSX, Tailwind, CSS, SASS |
+| Testing | Jest, React Testing Library, Storyobok, supertest  |
+| Server | Node.js, Nginx |
+| Database | PostgreSQL, Prisma, Firebase, Supabase, Knex/Bookshelf (ORM), Sqitch, MySQL, MongoDB, Mongoose |
+| Tools | Git/Github, Docker/Compose, CircleCI/Github Actions, Webpack, Yarn/NPM, Datadog, VSCode, Linear, Slack |
+| OS | MacOS, Windows, WSL, Linux (CentOS/Ubuntu), Android |
 | Processes | Agile Scrum, pair programming, team workshops, internal tech support |
 
 ## Links
-- [Github](https://github.com/sauntimo)
-- [Stack Overflow](https://stackoverflow.com/users/4293734/sauntimo)
-- [Twitter](https://twitter.com/sauntimo)
-- [Last.fm](https://last.fm/user/sauntimo)
+[`Github`](https://github.com/sauntimo) [`Stack Overflow`](https://stackoverflow.com/users/4293734/sauntimo) [`LinkedIn`](https://www.linkedin.com/in/sauntimo) [`Twitter`](https://twitter.com/sauntimo) [`Last.fm`](https://last.fm/user/sauntimo)
+
+## Open Source
+
+### [`ts-prune`](https://www.npmjs.com/package/ts-prune)
+
+CLI tool with ~250k+ downloads/month on npm to find unused code in typescript projects. [Added a small feature](https://github.com/nadeesha/ts-prune/pull/140) to allow specfifying a pattern to exclude files from counting toward code use, for instance `.test.ts` - so that functions that were tested but not used anywhere else in the codebase could still be identified and removed.
 
 ## Projects
 
-### Crypto-cli
-A commandline app written in typescript to get crypto asset prices. Grab the code from [github.com/sauntimo/crypto-cli](https://github.com/sauntimo/crypto-cli).
+### [`crypto-cli`](https://github.com/sauntimo/crypto-cli)
+A CLI tool written in typescript to get crypto asset prices.
 
-### Name-counter & API
-A node/typescript app which takes a list of 5,400 names and counts how many times they occur in the text of [Oliver Twist](https://en.wikipedia.org/wiki/Oliver_Twist). The API takes a name and returns a count of occurrences. The code for the command line app is at [github.com/sauntimo/name-counter](https://github.com/sauntimo/name-counter) and the code for the API is at [github.com/sauntimo/name-counter-api](https://github.com/sauntimo/name-counter-api). The API is avaiable deployed at [name-counter-api.herokuapp.com](https://name-counter-api.herokuapp.com/) which also has a basic frontend.
+## Employment History
 
-### Tech Jobs Bristol 
-A jobs board built on Node.js, Express, MongoDB and Mongoose, with OAuth sign-in via Github with passport.js. See the code at [github.com/sauntimo/tech-jobs](https://github.com/sauntimo/tech-jobs) or the app running on heroku at [bristol-tech-jobs.herokuapp.com](https://bristol-tech-jobs.herokuapp.com).
+### Senior Software Engineer, [Loopin](https://letsloopin.com)
+Bristol, UK (January 2021 - Present)
 
-### Star Wars API
-A small pure js app to explore data from the Star Wars API at [swapi.dev](https://swapi.dev). See the code at [github.com/sauntimo/swapi](https://github.com/sauntimo/swapi) or the app running on github pages at [sauntimo.github.io/swapi](https://sauntimo.github.io/swapi).
+-  Company’s second developer hire a few months after it began, leading on backend.
 
-### Church Calendar 
-A small javascript app which gets data from a calendar service API and presents two weeks worth of events, with controls for moving through time and modals for further event details. See the code at [github.com/sauntimo/churchsuite-diary](https://github.com/sauntimo/churchsuite-diary), a demo on github pages at [sauntimo.github.io/churchsuite-diary](https://sauntimo.github.io/churchsuite-diary) or the live version at [woodlandschurch.net/diary](https://www.woodlandschurch.net/diary)
+-  Undertook project to move from document database (Firebase) to a relational database (Postgres & Prisma).
 
-## Experience
+-  Standardised an approach to building APIs with authentication, validation and returning consistent types.
 
-### Web Application Developer, [TravelLocal](https://travellocal.com)
-Bristol, UK (January 2019 - present)
+-  Wrote most of our Slack chat bot integration using the Slack/Bolt package. Improved the speed of message flow responses by over 10x. Worked on getting the app published on the slack store.
+
+-  Worked with CTO & founders to build out the dev team, interviewing applicants and assessing technical tasks.
+
+-  Writing documentation for new developers, non-technical staff and customers. Mentoring junior developers.
+
+-  SRE - set up datadog logging and made time to fix bugs that came up. Reduced production API errors by nearly 50x.
+
+-  Stack & Tools include: Node, Typescript, Postgres, Prisma, Supabase, Express, Slack API, React, Tailwind, Next, Vercel, GCP, Docker, Git/GitHub + actions, Jest, Firebase, MacOS, VSCode, Slack
+
+### Software Engineer, [TravelLocal](https://travellocal.com)
+Bristol, UK (January 2019 - September 2020)
 
  - Being a subject matter expert on databases, helping colleagues writing efficient queries, building a team wiki of over 100 useful queries to interrogate our data, being a go to source for ad hoc data requests outside of the team, delivering workshops on SQL and postgres.
  
@@ -54,19 +63,30 @@ Bristol, UK (January 2019 - present)
  
  - Ensuring that I continue to learn by pair programming on complex or unfamiliar tasks, spending time understanding feedback on my PRs, attending community events like [BristolJS](https://bristoljs.org/), working on side projects, completing video and online courses, team workshops and reading several programming subreddits.
 
+- Stack & Tools include: Node, TypeScript, React, Postgres, Bookshelf, Knex, Sqitch, Git/GitHub, Jest, CircleCI, Windows/WSL, AWS, Terraform, Docker
+
 ### Web Developer, [Carmen Data](http://carmendata.co.uk) 
 Bristol, UK (3 years 6 months, July 2015 - December 2018)
 
  -  Designed and built a tool for making large datasets usable on client sites with functionality such as filtering, sorting, pagination and field customisation available out of the box, easily configured for use in different circumstances using back end tools - for example as traditional data table on a [Ford site](https://ford-quote.uk/bch/finder/) and as a grid on a [Fiat site](https://fiat-fleet.co.uk/compare/build/model/). The majority of our sites now use this component. Javascript / AJAX frontend with Coldfusion / MySQL backend.
+
 -   Writing modular and reusable code, generalising where practical to contribute to libraries used by the whole team.
+
 -  Data management - determining optimal structure for simple and efficient data usage, building and sharing queries internally to interrogate complex data and test and improve data quality. Node scripts for internal data processing.  
+
 -  DevOps - acting as a second to the CTO on infrastructure issues. SSL Certificates, database and server performance and error log monitoring, troubleshooting issues with Rackspace, automating admin tasks with shell scripts, cron jobs and git hooks.
+
 - Communication - Working with multinational corporations and smaller agencies from requirements gathering and planning large projects, through to user acceptance testing and responding to feedback and changing requirements. Internal knowledge sharing through team talks, writing documentation, wiki articles and pair programming.
+
+- Stack & Tools include: Javascript, jQuery, Angular, Vue, HTML, CSS, SASS, Node, MySQL, Apache, Coldfusion, Gulp, Selenium, Browserstack, Git, Linux (CentOS), Bash, PuTTY, Samba, Windows, Virtual Box, Sublime Text, Trello, Slack and a fair amount of Giphy and Spotify.
+
+<details>
+ <summary>Employment History Continuted...</summary></p>
 
 ### Student Information Officer, [University of Bristol](https://bristol.ac.uk)
 Bristol, UK (1 year 3 months, May 2014 - July 2015) 
 
--   Managed budget preparation worth £250m/3yrs. Built complex queries in Access (SQL) and reports in Excel. Detailed reconciliation of actuals against budget. Owned budgeting process and contributed key improvements which lead to the final budget being more accurate and timely than had previously been achieved.
+-   Managed tuition fee income budget worth £250m/3yrs. Built complex queries in Access (SQL) and reports in Excel. Detailed reconciliation of actuals against budget. Owned budgeting process and contributed key improvements which lead to the final budget being more accurate and timely than had previously been achieved.
     
 -   Data interrogation, internal and external reporting: produced data for key institutional processes such as exam boards, press enquiries and Government statistical analysis.
 
@@ -76,7 +96,7 @@ York, UK (1 year 4 months, June 2012 - May 2014)
 
 -   Reconciliation of student loan book of £60m with Government finance agencies. Writing queries to identify issues and scripts in student database system to automate processing of student status changes.
     
--   Developing data quality reports in SAP Business Objects (SQL) to improve reporting accuracy. Preparation of student demographics and population data for Government requirements.
+-   Developing data quality reports in SAP Business Objects (SQL) to improve reporting accuracy. Preparation of student demographics and population data for Government statutory reporting requirements.
 
 ### Accommodation Assistant, [University of York](https://york.ac.uk)
 York, UK (1 year 2 months, Jan 2011 - June 2012)
@@ -87,8 +107,11 @@ York, UK (1 year 2 months, Jan 2011 - June 2012)
 
 York, UK (1 year 6 months, June 2010 - December 2011)
 
--   Promoted to manage a team of 6 which delivered distance learning programmes in 3 colleges to 4000 learners netting £1m.
-
+-  Managed a team of six, responsible for distance learning courses at three colleges with 4000 learners (£1m revenue)
+-  Wrote work prioritisation scripts in Excel/VBA which saw profitability improve dramatically
+-  Improved reporting to provide more appropriate MI and ensure compliance with regulatory requirements
+  </p></details>
+  
 ## Qualifications
 2010 BSc Economics and Finance, University of York, UK
 
