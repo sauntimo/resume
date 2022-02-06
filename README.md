@@ -8,7 +8,7 @@ Enthusiastic and friendly senior software engineer with backend-lean and 6 years
 | Area | Skills |
 | :--- | :--- |
 | Web Technologies | Typescript, React, Redux, Vue, HTML/JSX, Tailwind, CSS, SASS |
-| Testing | Jest, React Testing Library, Storyobok, supertest  |
+| Testing | Jest, React Testing Library, Storybook, supertest  |
 | Server | Node.js, Nginx |
 | Database | PostgreSQL, Prisma, Firebase, Supabase, Knex/Bookshelf (ORM), Sqitch, MySQL, MongoDB, Mongoose |
 | Tools | Git/Github, Docker/Compose, CircleCI/Github Actions, Webpack, Yarn/NPM, Datadog, VSCode, Linear, Slack |
