@@ -30,9 +30,12 @@ CLI tool with ~250k+ downloads/month on npm to find unused code in typescript pr
 A CLI tool written in typescript to get crypto asset prices.
 
 ## Employment History
+### Software Engineer, [Auth0](https://auth0.com) (Part of [Okta](https://okta.com))
+Bristol, UK [Remote] (January 2023 - Present)
+- Working on the Organizations feature of the Auth0 Customer Identity and Access Management (CIAM) product.
 
 ### Senior Software Engineer, [Loopin](https://letsloopin.com)
-Bristol, UK (January 2021 - Present)
+Bristol, UK (January 2021 - December 2022)
 
 -  Company’s second developer hire a few months after it began, leading on backend.
 
